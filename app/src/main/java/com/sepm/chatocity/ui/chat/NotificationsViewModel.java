@@ -1,4 +1,4 @@
-package com.sepm.chatocity.ui.notifications;
+package com.sepm.chatocity.ui.chat;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

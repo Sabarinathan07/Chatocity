@@ -1,4 +1,4 @@
-package com.sepm.chatocity.ui.dashboard;
+package com.sepm.chatocity.ui.settings;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

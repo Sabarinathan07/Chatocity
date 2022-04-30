@@ -1,4 +1,4 @@
-package com.sepm.chatocity.ui.home;
+package com.sepm.chatocity.ui.profile;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

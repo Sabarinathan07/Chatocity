@@ -1,4 +1,4 @@
-package com.sepm.chatocity.ui.notes;
+package com.sepm.chatocity.ui.chat;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,13 +10,14 @@ import androidx.fragment.app.Fragment;
 
 import com.sepm.chatocity.R;
 
-public class NotesFragment extends Fragment {
+public class ChatFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState){
-        View v = inflater.inflate(R.layout.fragment_notes, container, false);
+        View v = inflater.inflate(R.layout.fragment_chat, container, false);
+
 
 
         return v;

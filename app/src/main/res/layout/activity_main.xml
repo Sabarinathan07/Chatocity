@@ -111,6 +111,7 @@
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
+            android:id="@+id/editTextEmail"
             android:layout_height="wrap_content"
             android:backgroundTint="#50ffffff"
             android:hint="Email"
@@ -135,6 +136,7 @@
         app:passwordToggleTint="#80000000">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTextPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#fff"
@@ -157,7 +159,7 @@
     <!--        app:layout_constraintTop_toTopOf="@+id/guideline17" />-->
 
     <TextView
-        android:id="@+id/textView7"
+        android:id="@+id/forgotPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"

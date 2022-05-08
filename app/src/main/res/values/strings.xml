@@ -16,4 +16,9 @@
     <string name="title_settings">Settings</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Profile">Profile</string>
+    <string name="Student_Name">Student Name</string>
+    <string name="regno">RA2011003020050</string>
+    <string name="sec">CSE-J</string>
+    <string name="year">2020-2024</string>
 </resources>

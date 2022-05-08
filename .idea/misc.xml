@@ -20,12 +20,17 @@
         <entry key="../Chatocity/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="../Chatocity/app/src/main/res/layout/fragment_settings.xml" value="0.14010162353515626" />
         <entry key="../Chatocity/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2578125" />
+        <entry key="..\:/Users/ASUS/Desktop/Chatocity/app/src/main/res/layout/activity_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Chatocity/app/src/main/res/layout/activity_sign_up.xml" value="0.10280797101449275" />
+        <entry key="..\:/Users/ASUS/Desktop/Chatocity/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/Desktop/Chatocity/app/src/main/res/layout/fragment_settings.xml" value="0.13632246376811594" />
+        <entry key="..\:/Users/ASUS/Desktop/Chatocity/app/src/main/res/layout/profile_ui.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

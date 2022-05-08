@@ -3,12 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../Chatocity/app/src/main/res/drawable/account.xml" value="0.164" />
         <entry key="../Chatocity/app/src/main/res/drawable/bottom_nav.xml" value="0.164" />
         <entry key="../Chatocity/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.164" />
         <entry key="../Chatocity/app/src/main/res/drawable/login_ui.xml" value="0.131" />
         <entry key="../Chatocity/app/src/main/res/font/sue_ellen_francisco.xml" value="0.15052083333333333" />
-        <entry key="../Chatocity/app/src/main/res/layout/activity_forgot.xml" value="0.2578125" />
         <entry key="../Chatocity/app/src/main/res/layout/activity_main.xml" value="0.25227661132812496" />
         <entry key="../Chatocity/app/src/main/res/layout/activity_navigation.xml" value="0.24375" />
         <entry key="../Chatocity/app/src/main/res/layout/activity_sign_up.xml" value="0.2578125" />
@@ -20,6 +18,7 @@
         <entry key="../Chatocity/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="../Chatocity/app/src/main/res/layout/fragment_settings.xml" value="0.14010162353515626" />
         <entry key="../Chatocity/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2578125" />
+        <entry key="..\:/Users/drjsk/Desktop/AndroidStudioProjects/Chatocity/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>

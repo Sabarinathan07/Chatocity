@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388758338215",
+    "project_id": "chatocity-9eb7a",
+    "storage_bucket": "chatocity-9eb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388758338215:android:9fc3cdff00cee9b8d63982",
+        "android_client_info": {
+          "package_name": "com.sepm.chatocity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388758338215-hdfp0jnbvnohkregt4qeb8a3mo6uqm4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG-Fr_459e95WENRkP14X8S9jsDMfyrJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388758338215-hdfp0jnbvnohkregt4qeb8a3mo6uqm4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

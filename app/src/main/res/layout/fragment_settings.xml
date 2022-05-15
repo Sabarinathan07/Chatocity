@@ -1,9 +1,11 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/ic_sign_up"
     tools:context=".ui.settings.SettingsFragment">
 
     <LinearLayout
@@ -17,6 +19,7 @@
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:src="@drawable/ic_arrow_back"
+
         android:layout_alignParentLeft="true"/>
 
     <TextView
@@ -75,14 +78,74 @@
             android:textSize="20dp"
             android:layout_marginTop="8dp"
             />
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="1dp"
-            android:background="@color/colorAccent"
-            android:id="@+id/settings_profile"
-            android:paddingRight="8dp"
-            android:paddingLeft="8dp"
-            android:layout_marginTop="10dp"/>
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First name"
+            android:drawableLeft="@drawable/ic_profile"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15dp"
+            android:drawablePadding="10dp"
+            android:textStyle="normal"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="50dp"
+            />
+
+<!--        <ImageView-->
+<!--            android:layout_width="25dp"-->
+<!--            android:layout_height="25dp"-->
+<!--            android:src="@drawable/ic_profile"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:layout_gravity="left"-->
+<!--            android:layout_marginLeft="55dp"-->
+<!--            />-->
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Last name"
+            android:drawableLeft="@drawable/ic_profile"
+            android:drawablePadding="10dp"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="normal"
+            android:textSize="15dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="50dp"
+            />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="placeholder@email.com"
+            android:drawableLeft="@drawable/ic_email"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="normal"
+            android:drawablePadding="10dp"
+            android:textSize="15dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="50dp"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change Password"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_lock"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Update Profile"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/ic_edit"
+            android:background="@android:color/transparent"
+            android:textColor="@color/colorPrimary"
+            />
+
     </LinearLayout>
 
     <LinearLayout
@@ -91,11 +154,7 @@
         android:orientation="vertical"
         >
 
-        <ImageView
-            android:layout_width="25dp"
-            android:layout_height="25dp"
-            android:src="@drawable/ic_profile"
-            />
+
     </LinearLayout>
 
 
